@@ -81,3 +81,4 @@ quarterly_data$`Series 102 : MICRO from 1984 1Q to 1994 4Q`$train_data # testing
 # obtain monthly data
 monthly_data <- read_data(data_month, freq = 12)
 monthly_data$`Series 203 : MICRO from 1990 January to 1995 August`$data # testing
+
